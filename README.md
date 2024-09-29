@@ -12,7 +12,7 @@ I am learning laravel and working on my portfolio projects.
         <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
         <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
         <img src="https://img.shields.io/badge/-PHP-609ad3?style=for-the-badge&logo=php&logoColor=609ad3&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Lravel-df5065?style=for-the-badge&logo=laravel&logoColor=df5065&labelColor=282828">
+        <img src="https://img.shields.io/badge/-Laravel-df5065?style=for-the-badge&logo=laravel&logoColor=df5065&labelColor=282828">
     </div>
 </p>
 
