@@ -2,7 +2,7 @@
     <b>Hey 👋, I'm Bogdan!</b>
 </h1>
 
-Heya! I'm Bogdan, a student currently living in Vinnitsya, Ukraine. <br>
+Heya! I'm Bogdan, a student currently living in Vinnytsia, Ukraine. <br>
 I am learning laravel and working on my portfolio projects.
 
 <br>
@@ -22,7 +22,7 @@ class Mitter()
 {
     public name = "Mitter";
     public username = "denmitter";
-    public location = "Vinnitsya, Ukraine";
+    public location = "Vinnytsia, Ukraine";
     public telegram = "@murphez";
     public web = "http://91.238.103.113/";
 
