@@ -1,8 +1,8 @@
 <h1 align="center">
-    <b>Hey 👋, I'm Mitter!</b>
+    <b>Hey 👋, I'm Bogdan!</b>
 </h1>
 
-Heya! I'm Mitter, a student currently living in Vinnitsya, Ukraine. <br>
+Heya! I'm Bogdan, a student currently living in Vinnitsya, Ukraine. <br>
 I am learning laravel and working on my portfolio projects.
 
 <br>
