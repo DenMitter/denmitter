@@ -80,7 +80,7 @@ dd($me->getName());
             <img src="https://img.shields.io/badge/-GOOGLE-4983ef?style=for-the-badge&logo=google&logoColor=4983ef&labelColor=282828">
             <img src="https://img.shields.io/badge/-VISUAL STUDIO CODE-2176d3?style=for-the-badge&labelColor=282828">
             <img src="https://img.shields.io/badge/-Linux-f7c842?style=for-the-badge&logo=linux&logoColor=f7c842&labelColor=282828">
-            <img src="https://img.shields.io/badge/-Docker-f7c842?style=for-the-badge&logo=docker&logoColor=f7c842&labelColor=282828">
+            <img src="https://img.shields.io/badge/-Docker-4983ef?style=for-the-badge&logo=docker&logoColor=282828&labelColor=282828">
     </div>
 </p>
 <hr>
