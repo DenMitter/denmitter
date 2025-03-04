@@ -26,17 +26,6 @@ class Mitter()
     public telegram = "@murphez";
     public web = "http://91.238.103.113/";
 
-    public function __contstructor()
-    {
-        return [
-            'name' => $this->name;
-            'username' => $this->username;
-            'location' => $this->location;
-            'telegram' => $this->telegram;
-            'web' => $this->web;
-        ];
-    }
-
     public function getName()
     {
         return $this->name;
@@ -44,7 +33,7 @@ class Mitter()
 }
 
 $me = new Mitter();
-dd($me->getName());
+echo $me->getName();
 ```
 
 <!-- <p align="left">
