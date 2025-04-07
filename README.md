@@ -18,22 +18,23 @@ I am learning laravel and working on my portfolio projects.
 
 ```php
 <?php
-class Mitter() 
+class Mitter
 {
-    public name = "Mitter";
-    public username = "denmitter";
-    public location = "Vinnytsia, Ukraine";
-    public telegram = "@murphez";
-    public web = "http://91.238.103.113/";
+    public function __construct(
+        public string $name = 'Mitter',
+        public string $username = 'denmitter',
+        public string $location = 'Vinnytsia, Ukraine',
+        public string $telegram = '@murphez',
+        public string $web = 'http://91.238.103.113/'
+    ) {}
 
-    public function getName()
+    public function __toString(): string
     {
-        return $this->name;
+        return "{$this->name} ({$this->username}) — {$this->location}\n📨 {$this->telegram} 🌐 {$this->web}";
     }
 }
 
-$me = new Mitter();
-echo $me->getName();
+echo new Mitter();
 ```
 
 <!-- <p align="left">
