@@ -2,7 +2,7 @@
     <b>Hey 👋, I'm Bogdan!</b>
 </h1>
 
-Heya! I'm Bogdan, a student currently living in Vinnytsia, Ukraine. <br>
+Hey! I'm Bogdan, a student currently living in Vinnytsia, Ukraine. <br>
 I am learning laravel and working on my portfolio projects.
 
 <br>
