@@ -61,7 +61,7 @@ echo new Mitter();
             <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
             <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
             <img src="https://img.shields.io/badge/-JavaScript-f6e044?style=for-the-badge&logo=javascript&logoColor=f6e044&labelColor=282828">
-            <img src="https://img.shields.io/badge/-Vue3-f6e044?style=for-the-badge&logo=vue3&logoColor=4983ef&labelColor=282828">
+            <img src="https://img.shields.io/badge/-Vue3-f6e044?style=for-the-badge&logo=vue3&logoColor=41B883&labelColor=282828">
         </div>
         <br>
         <div>
