@@ -13,10 +13,9 @@ Currently working on freelance and small commercial projects.
 
 <p>
     <div align="center">
-        <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-        <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
         <img src="https://img.shields.io/badge/-PHP-609ad3?style=for-the-badge&logo=php&logoColor=609ad3&labelColor=282828">
         <img src="https://img.shields.io/badge/-Laravel-df5065?style=for-the-badge&logo=laravel&logoColor=df5065&labelColor=282828">
+        <img src="https://img.shields.io/badge/-Vue3-f6e044?style=for-the-badge&logo=vue3&logoColor=41B883&labelColor=282828">
     </div>
 </p>
 
@@ -31,20 +30,20 @@ Currently working on freelance and small commercial projects.
 <p>
     <div align="left">
         <div>
-            <h3>Languages</h3>
+            <h4>Languages</h4>
             <img src="https://img.shields.io/badge/-PHP-609ad3?style=for-the-badge&logo=php&logoColor=609ad3&labelColor=282828">
             <img src="https://img.shields.io/badge/-Lravel-df5065?style=for-the-badge&logo=laravel&logoColor=df5065&labelColor=282828">
             <img src="https://img.shields.io/badge/-Python-2b6ee8?style=for-the-badge&logo=python&logoColor=2b6ee8&labelColor=282828">
         </div>
         <div>
-            <h3>Front-End Development</h3>
+            <h4>Front-End Development</h4>
             <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
             <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
             <img src="https://img.shields.io/badge/-JavaScript-f6e044?style=for-the-badge&logo=javascript&logoColor=f6e044&labelColor=282828">
             <img src="https://img.shields.io/badge/-Vue3-f6e044?style=for-the-badge&logo=vue3&logoColor=41B883&labelColor=282828">
         </div>
         <div>
-            <h3>Softwares and Tools:</h3>
+            <h4>Softwares and Tools:</h4>
             <img src="https://img.shields.io/badge/-GIT-e55c3b?style=for-the-badge&logo=git&logoColor=e55c3b&labelColor=282828">
             <img src="https://img.shields.io/badge/-GITHUB-121011?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=282828">
             <img src="https://img.shields.io/badge/-VISUAL STUDIO CODE-2176d3?style=for-the-badge&labelColor=282828">
@@ -54,5 +53,5 @@ Currently working on freelance and small commercial projects.
 </p>
 <hr>
 
-<a href="https://t.me/murphez"><h3>Contact with me ( telegram )</h3></a>
-<a href="http://91.238.103.113/">Portfolio</a>
+- <a href="https://t.me/murphez">Contact with me ( telegram )</a>
+- <a href="http://91.238.103.113/">Portfolio</a>
