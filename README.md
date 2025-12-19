@@ -4,7 +4,7 @@
 
 PHP / Laravel Developer
 
-I build backend systems using Laravel.
+I build backend systems using Laravel.<br>
 Experience with REST APIs, integrations, Telegram bots, and basic frontend on Vue 3.
 
 Currently working on freelance and small commercial projects.
