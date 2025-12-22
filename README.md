@@ -12,7 +12,7 @@ Currently working on freelance and small commercial projects.
 <br>
 
 <p>
-    <div align="center">
+    <div>
         <img src="https://img.shields.io/badge/-PHP-609ad3?style=for-the-badge&logo=php&logoColor=609ad3&labelColor=282828">
         <img src="https://img.shields.io/badge/-Laravel-df5065?style=for-the-badge&logo=laravel&logoColor=df5065&labelColor=282828">
         <img src="https://img.shields.io/badge/-Vue3-f6e044?style=for-the-badge&logo=vue3&logoColor=41B883&labelColor=282828">
